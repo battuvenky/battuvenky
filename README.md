@@ -46,14 +46,14 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### **LeetCode Strikes** ⚡  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kruthikroshan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
+  <img src="https://leetcard.jacoblin.cool/VenkateshPatel?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
 </p>
 
 ---
 
 ### 🏆 **Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs** 🏆  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=kruthikroshan&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=battuvenky&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />  
 </p>  
 
 ---
@@ -75,18 +75,18 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### 📊 **Gɪᴛʜᴜʙ Sᴛᴀᴛs** 📊  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=venkybattu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthikroshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkybattu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
 </p>  
 
 ---
 
 ### 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ** 📈  
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikroshan&theme=radical" alt="GitHub Streaks" width="600" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkybattu&theme=radical" alt="GitHub Streaks" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=kruthikroshan&theme=github" alt="Contribution Graph" width="600" />  
+  <img src="https://activity-graph.herokuapp.com/graph?username=venkybattu&theme=github" alt="Contribution Graph" width="600" />  
 </p>
