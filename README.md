@@ -14,13 +14,12 @@ battuvenky/battuvenky is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">  
-- **About Me:**  
+ **About Me:**  
   I am passionate about technology, coding, and solving challenging problems in the field of Data Structures and Algorithms. My journey includes:  
-  - **Internships:**  
-    - **ShadowFox:** Data Science Intern  
-    - **CodeClause:** Java Development Intern  
-    - **InternPe:** Completed a professional internship  
-   **Educational Background:**  
+ **Internships:**  
+   **ShadowFox:** AI&ML Intern  
+   **AICTE:** Google AIML virtual Internship    
+ **Educational Background:**  
     **School:** [SRI HARSHA HIGH SCHOOL DAMERA X ROAD]  
     **College:** [SR University]  
 
@@ -30,15 +29,15 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### 🌐 **Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs** 🌐  
 <p align="center">  
-  <a href="https://leetcode.com/u/kruthikroshan/" target="_blank" rel="noreferrer">  
+  <a href="https://leetcode.com/u/VenkateshPatel/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
-  <a href="https://www.hackerrank.com/godishalakruthi3" target="_blank" rel="noreferrer">  
+  <a href="https://www.hackerrank.com/profile/venkateshpatel21" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
-  <a href="https://auth.geeksforgeeks.org/user/kruthikroshan18/" target="_blank" rel="noreferrer">  
+  <a href="https://www.geeksforgeeks.org/user/venkatesh0dkj/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
   </a>  
 </p>  
