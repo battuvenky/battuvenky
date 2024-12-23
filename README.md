@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @battuvenky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi, I’m Venkatesh Patel
+👀 I’m interested in *Data structure Algorithms(DSA)*,particularly in optimizing search algorithms and also understanding complex data structure and Artificial Intalegence &Machine Learning(AI&ML).
+🌱 I’m currently learning *DSA and AIML* focusing on dynamic programming and grapg algorithms, and working on small projects to apply my knowledge.
+💞️ I’m looking to collaborate on developing a DSA resources using a HTML , CSS, javaScript and i am also keen to contributing a machine learning projects.
+📫 *How to reach me * Email: venkateshpatel220@gmail.com (email to: venkateshpatel220@gmail.com ) 
+&nbsp;&nbsp;
+Linledin: [Venkatesh Battu](https://www.linkedin.com/in/venkatesh-patel-a6181a295/)
+😄 Pronouns: He/Him*
+⚡ Fun fact: *I can solve a Rubik’s cube in under a minute and have traveled to 10 different countries!*
+
 
 <!---
 battuvenky/battuvenky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +20,9 @@ You can click the Preview link to take a look at your changes.
     - **ShadowFox:** Data Science Intern  
     - **CodeClause:** Java Development Intern  
     - **InternPe:** Completed a professional internship  
-  - **Educational Background:**  
-    - **School:** [SRI HARSHA HIGH SCHOOL DAMERA X ROAD]  
-    - **College:** [SR University]  
+   **Educational Background:**  
+    **School:** [SRI HARSHA HIGH SCHOOL DAMERA X ROAD]  
+    **College:** [SR University]  
 
 Feel free to connect with me on LinkedIn to explore opportunities, collaborations, or just to discuss all things tech!
 
