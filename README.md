@@ -2,7 +2,7 @@
 👀 I’m interested in *Data structure Algorithms(DSA)*,particularly in optimizing search algorithms and also understanding complex data structure and Artificial Intalegence &Machine Learning(AI&ML).
 🌱 I’m currently learning *DSA and AIML* focusing on dynamic programming and grapg algorithms, and working on small projects to apply my knowledge.
 💞️ I’m looking to collaborate on developing a DSA resources using a HTML , CSS, javaScript and i am also keen to contributing a machine learning projects.
-📫 *How to reach me * Email: venkateshpatel220@gmail.com (email to: venkateshpatel220@gmail.com ) 
+📫 *How to reach me * Email: venkateshpatel220@gmail.com (email to: venkateshpatel220@gmail.com )
 &nbsp;&nbsp;
 Linledin: [Venkatesh Battu](https://www.linkedin.com/in/venkatesh-patel-a6181a295/)
 😄 Pronouns: He/Him*
