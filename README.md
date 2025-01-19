@@ -75,18 +75,18 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### 📊 **Gɪᴛʜᴜʙ Sᴛᴀᴛs** 📊  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=venkybattu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=battuvenky&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkybattu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=battuvenky&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
 </p>  
 
 ---
 
 ### 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ** 📈  
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkybattu&theme=radical" alt="GitHub Streaks" width="600" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=battuvenky&theme=radical" alt="GitHub Streaks" width="600" />  
 </p>  
 <p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=venkybattu&theme=github" alt="Contribution Graph" width="600" />  
+  <img src="https://activity-graph.herokuapp.com/graph?username=battuvenky&theme=github" alt="Contribution Graph" width="600" />  
 </p>
